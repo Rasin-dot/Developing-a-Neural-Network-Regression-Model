@@ -171,33 +171,14 @@ print(f"Predicted Exam Marks for 7 Study Hours: {predicted_marks:.2f}")
 ## Loss list
 <img width="595" height="525" alt="image" src="https://github.com/user-attachments/assets/8a3430b0-cb40-4d41-8e16-2e87413f5729" />
 
-
 ## Model evaluation 
 <img width="771" height="382" alt="image" src="https://github.com/user-attachments/assets/441c19bf-8ffa-46c9-b80d-53d93de58821" />
-
-
-
-
-
-
-
-
 
 ## Plot Diagram 
 <img width="762" height="442" alt="image" src="https://github.com/user-attachments/assets/8b1a84c9-2c76-462e-9f2a-7282e2692145" />
 
-
-
-
-
-
-
-
-
 ### New Sample Data Prediction
 <img width="742" height="326" alt="image" src="https://github.com/user-attachments/assets/a6acfd89-a2b7-4f5c-9439-18b1f34555cc" />
-
-
 
 ## RESULT
 Thus, a neural network regression model was successfully developed and trained using PyTorch.

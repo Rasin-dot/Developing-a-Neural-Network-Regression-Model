@@ -176,6 +176,13 @@ print(f"Predicted Exam Marks for 7 Study Hours: {predicted_marks:.2f}")
 <img width="771" height="382" alt="image" src="https://github.com/user-attachments/assets/441c19bf-8ffa-46c9-b80d-53d93de58821" />
 
 
+
+
+
+
+
+
+
 ## Plot Diagram 
 <img width="762" height="442" alt="image" src="https://github.com/user-attachments/assets/8b1a84c9-2c76-462e-9f2a-7282e2692145" />
 

@@ -180,5 +180,31 @@ print(f"Predicted Exam Marks for 7 Study Hours: {predicted_marks:.2f}")
 ### New Sample Data Prediction
 <img width="742" height="326" alt="image" src="https://github.com/user-attachments/assets/a6acfd89-a2b7-4f5c-9439-18b1f34555cc" />
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## RESULT
 Thus, a neural network regression model was successfully developed and trained using PyTorch.
